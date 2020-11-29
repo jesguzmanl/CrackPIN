@@ -17,7 +17,7 @@ Usage of CrackLock for attacking targets without prior mutual consent is illegal
 ```
 git clone https://github.com/V1CK3YZ/CrackLock
 cd CrackLock
-bash cracklock.sh.sh
+bash cracklock.sh
 ```
 
 <p>
