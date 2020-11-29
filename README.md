@@ -8,10 +8,10 @@ Crack Android or Ios devices security pins or patterns
 
 ### Features:
 
-#### Lockscreen fake pages for Windows, Android and iPhone
-#### Auto detect device
-#### Port Forwarding by Ngrok
-#### IP Tracer
+#### Lockscreen fake pages for Android and iPhone
+#### 100% working fake pages
+#### Ngrok port forwarding
+#### Track IP
 
 ## Legal disclaimer:
 
