@@ -2,6 +2,10 @@
 
 Crack Android or Ios devices security pins or patterns
 
+<p align="center">
+<a href="https://github.com/V1CK3YZ"><img title="Author" src="https://img.shields.io/badge/Author-V1CK3YZ-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+
 ### Features:
 
 #### Lockscreen fake pages for Windows, Android and iPhone
