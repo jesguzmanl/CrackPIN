@@ -22,7 +22,7 @@ git clone https://github.com/V1CK3YZ/CrackPIN
 cd CrackPIN
 bash crackpin.sh
 ```
-Images of CrackPIN
+## CrackPIN in Terminal
 
 [![Screenshot-2020-11-30-17-00-05-1.png](https://i.postimg.cc/ZKvx8Cj8/Screenshot-2020-11-30-17-00-05-1.png)](https://postimg.cc/PPhDhfgJ)
 
