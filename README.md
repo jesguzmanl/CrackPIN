@@ -22,6 +22,9 @@ git clone https://github.com/V1CK3YZ/CrackPIN
 cd CrackPIN
 bash crackpin.sh
 ```
+Images of CrackPIN
+
+[![Screenshot-2020-11-30-17-00-05-1.png](https://i.postimg.cc/ZKvx8Cj8/Screenshot-2020-11-30-17-00-05-1.png)](https://postimg.cc/PPhDhfgJ)
 
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=V1CK3YZ.CrackPIN" alt="visitor badge"/>
