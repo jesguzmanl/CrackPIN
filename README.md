@@ -11,7 +11,6 @@ Crack Android or Ios devices security PINS with a single link.
 #### Lockscreen fake pages for Android and iPhone
 #### 100% working fake pages
 #### Ngrok port forwarding
-#### Track IP
 
 ## Legal disclaimer:
 
