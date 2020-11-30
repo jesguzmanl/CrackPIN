@@ -9,10 +9,7 @@ printf "\e[1;92m   | |    | '__/ _` |/ __| |/ / |    / _ \ / __| |/ /  \e[0m\n"
 printf "\e[1;92m   | |____| | | (_| | (__|   <| |___| (_) | (__|   <   \e[0m\n"
 printf "\e[1;92m    \_____|_|  \__,_|\___|_|\_\______\___/ \___|_|\_\  v1.1\e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Security Pattern/PIN Cracking Tool coded by: V1CK3YZ \e[0m\e[1;93m.:.:.\e[0m\n"
-printf "\n"
-printf "  \e[101m\e[1;77m:: Disclaimer: I am not responsible for any misuse of CracklLock ::\e[0m\n"
-printf "\n"
+
 }
 
 stop() {
