@@ -1,4 +1,4 @@
-# CrackSec
+# CrackPIN
 
 Crack Android or Ios devices security PINS with a single link.
 
@@ -19,11 +19,11 @@ Usage of CrackLock for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/V1CK3YZ/CrackLock
-cd CrackLock
-bash cracklock.sh
+git clone https://github.com/V1CK3YZ/CrackPIN
+cd CrackPIN
+bash crackpin.sh
 ```
 
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=V1CK3YZ.CrackLock" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=V1CK3YZ.CrackPIN" alt="visitor badge"/>
 </p>
