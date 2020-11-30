@@ -1,6 +1,6 @@
 # CrackSec
 
-Crack Android or Ios devices security patterns
+Crack Android or Ios devices security PINS with a single link.
 
 <p align="center">
 <a href="https://github.com/V1CK3YZ"><img title="Author" src="https://img.shields.io/badge/Author-V1CK3YZ-red.svg?style=for-the-badge&logo=github"></a>
