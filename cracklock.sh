@@ -1,43 +1,17 @@
 trap 'printf "\n";stop' 2
 
 banner() {
-function print_centered {
-     [[ $# == 0 ]] && return 1
 
-     declare -i TERM_COLS="$(tput cols)"
-     declare -i str_len="${#1}"
-     [[ $str_len -ge $TERM_COLS ]] && {
-          echo "$1";
-          return 0;
-     }
-
-     declare -i filler_len="$(( (TERM_COLS - str_len) / 2 ))"
-     [[ $# -ge 2 ]] && ch="${2:0:1}" || ch=" "
-     filler=""
-     for (( i = 0; i < filler_len; i++ )); do
-          filler="${filler}${ch}"
-     done
-
-     printf "%s%s%s" "$filler" "$1" "$filler"
-     [[ $(( (TERM_COLS - str_len) % 2 )) -ne 0 ]] && printf "%s" "${ch}"
-     printf "\n"
-
-     return 0
-}
-
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-BLUE='\033[0;34m'
-printf "${RED}"
-printf "${GREEN}"
-print_centered "CrackLock v1.0"
-printf "${BLUE}"
-print_centered "V1CK3YZ"
-printf "${RED}"
-print_centered "Warning:"
-print_centered "This is only  for educational purpose."
-print_centered "Do not Use This To Attack Others."
-print_centered "I Am Not Responsible For The Misuse Of The Tool."
+printf "\e[1;92m     _____                _    _                _      \e[0m\n"
+printf "\e[1;92m    / ____|              | |  | |              | |     \e[0m\n"
+printf "\e[1;92m   | |     _ __ __ _  ___| | _| |     ___   ___| | __  \e[0m\n"
+printf "\e[1;92m   | |    | '__/ _` |/ __| |/ / |    / _ \ / __| |/ /  \e[0m\n"
+printf "\e[1;92m   | |____| | | (_| | (__|   <| |___| (_) | (__|   <   \e[0m\n"
+printf "\e[1;92m    \_____|_|  \__,_|\___|_|\_\______\___/ \___|_|\_\  v1.1\e[0m\n"
+printf "\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Security Pattern/PIN Cracking Tool coded by: V1CK3YZ \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\n"
+printf "  \e[101m\e[1;77m:: Disclaimer: I am not responsible for any misuse of CracklLock ::\e[0m\n"
 printf "\n"
 }
 
