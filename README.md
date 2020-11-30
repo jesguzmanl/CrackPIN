@@ -20,6 +20,8 @@ Usage of CrackPIN for attacking targets without prior mutual consent is illegal.
 ```
 git clone https://github.com/V1CK3YZ/CrackPIN
 cd CrackPIN
+ls
+chmod 777 crackpin.sh
 bash crackpin.sh
 ```
 ## CrackPIN in Terminal
