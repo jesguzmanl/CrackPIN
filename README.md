@@ -18,7 +18,7 @@ Usage of CrackPIN for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/V1CK3YZ/CrackPIN
+git clone https://github.com/V1CK3Y2/CrackPIN
 cd CrackPIN
 ls
 chmod 777 crackpin.sh
