@@ -10,7 +10,7 @@ printf "\e[1;92m    | |____| | | (_| | (__|   <| |    _| |_| |\  |  \e[0m\n"
 printf "\e[1;92m     \_____|_|  \__ _|\___|_|\_\_|   |_____|_| \_|  v1.1\e[0m\n"
 
 printf "\n"  
-printf "\e[1;91m Android or IOS Security PIN Phishing Tool coded by: V1CK3YZ \e[0m\n"
+printf "\e[1;91m Android or IOS Security PIN Phishing Tool coded by: V1CK3Y2 \e[0m\n"
 
 }
 
