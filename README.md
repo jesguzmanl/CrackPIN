@@ -4,6 +4,7 @@ Crack Android or Ios devices security PINS with a single link.
 
 <p align="center">
 <a href="https://github.com/V1CK3Y2"><img title="Author" src="https://img.shields.io/badge/Author-V1CK3Y2-red.svg?style=for-the-badge&logo=github"></a>
+<a href="HTML"><img title="5.0" src="https://img.shields.io/badge/HTML-5.0-orange.svg?style=for-the-badge&logo=HTML"></a>
 </p>
 
 ### Features:
